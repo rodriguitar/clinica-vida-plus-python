@@ -1,18 +1,39 @@
-# 🏥 Sistema Clínica Vida+
+# 🏥 Clínica Vida+ - Sistema em Python
 
-Projeto acadêmico desenvolvido em Python para gerenciamento simples de pacientes.
+Projeto desenvolvido para a disciplina de Projeto Integrado.
 
-## 📌 Funcionalidades
+## 📌 Objetivo
+Desenvolver um sistema simples em Python para gestão básica de pacientes de uma clínica.
+
+## 🚀 Funcionalidades
+
 - Cadastro de pacientes
 - Listagem de pacientes
 - Busca por nome
-- Estatísticas (idade média, mais novo, mais velho)
+- Estatísticas:
+  - Total de pacientes
+  - Idade média
+  - Paciente mais novo
+  - Paciente mais velho
 
-## 🛠️ Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
+
 - Python 3
-- Terminal / CLI
-- Git e GitHub
+- Estruturas de dados (listas e dicionários)
+- Estruturas condicionais
+- Laços de repetição
+- Funções
 
 ## ▶️ Como executar
+
 ```bash
 python main.py
+```
+
+## 📚 Conceitos aplicados
+
+- Manipulação de listas
+- Dicionários
+- Funções
+- Tratamento básico de erros
+- Estrutura de menu interativo
